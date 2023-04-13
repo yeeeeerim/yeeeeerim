@@ -5,3 +5,8 @@
 
 ## Tech Stacks
 https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
+## Gitnub Stats
+![yeeeeerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeeerim)
+
+## Tech Stacks
+https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
